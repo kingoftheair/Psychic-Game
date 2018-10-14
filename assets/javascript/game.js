@@ -31,6 +31,7 @@ if (guessesLeft <0) {
  
 
 var html =
+        "<h1> Guess what letter I'm thinking of </h1>"+
           "<p>You chose: " + userChoice + "</p>" +
           "<p>The computer chose: " + answer + "</p>" +
           "<p>wins: " + wins + "</p>" +
