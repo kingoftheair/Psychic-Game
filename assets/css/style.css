@@ -1,0 +1,26 @@
+body, html {
+    background-image:url("../images/woodbackground.png");
+}
+
+p {
+    font-family:fantasy;
+    border: bold 10px;
+    padding:30px;
+    font-size:20px;
+}
+
+h1 {
+    font-family:fantasy;
+    border: bold 20px;
+    padding: 30px;
+    font-size: 40px;
+
+}
+
+h3 {
+    float:right;
+    border: 25px;
+    padding: 50px 175px 50px 50px;
+    font-family:fantasy;
+    font-size:40px;
+}
