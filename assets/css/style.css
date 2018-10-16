@@ -2,25 +2,32 @@ body, html {
     background-image:url("../images/woodbackground.png");
 }
 
+
 p {
     font-family:fantasy;
     border: bold 10px;
-    padding:30px;
     font-size:20px;
+    padding:20px;
 }
 
 h1 {
     font-family:fantasy;
     border: bold 20px;
-    padding: 30px;
     font-size: 40px;
+    padding:20px;
 
 }
 
 h3 {
-    float:right;
     border: 25px;
-    padding: 50px 175px 50px 50px;
     font-family:fantasy;
     font-size:40px;
+    padding:20px;
+    text-align:center;
 }
+
+image1 {
+    padding:20px 200px 20px 100px;
+}
+
+
