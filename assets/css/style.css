@@ -8,6 +8,7 @@ p {
     border: bold 10px;
     font-size:20px;
     padding:20px;
+    text-align:center;
 }
 
 h1 {
@@ -15,6 +16,7 @@ h1 {
     border: bold 20px;
     font-size: 40px;
     padding:20px;
+    text-align:center;
 
 }
 
